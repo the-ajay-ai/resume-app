@@ -12,7 +12,7 @@ st.write('''
 ''')
 
 image = Image.open('dp.png')
-[st.image(image, width=150)](http://dducollegedu.ac.in)
+st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
