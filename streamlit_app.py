@@ -7,7 +7,7 @@ with open("style.css") as f:
 #####################
 # Header 
 st.write('''
-# Ajay Saini, `A.I. Enthusiast`
+# Ajay Saini, `A.I.Enthusiast`
 ##### *Resume* 
 ''')
 
