@@ -89,14 +89,14 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Master of Science** (Computer Science), *Central University of Rajasthan*(https://curaj.ac.in), Rajasthan',
+txt('**Master of Science** (Computer Science), [*Central University of Rajasthan*](https://curaj.ac.in), Rajasthan',
 '2019-2021')
 st.markdown('''
 - GPA: `8.0(≈)`
 - Graduated with First Class Honors.
 ''')
 
-txt('**Bachelors of Science** (Computer Science), *University of Delhi*(http://dducollegedu.ac.in), New Delhi',
+txt('**Bachelors of Science** (Computer Science), [*University of Delhi*](http://dducollegedu.ac.in), New Delhi',
 '2016-2019')
 st.markdown('''
 - GPA: `7.0(≈)`
