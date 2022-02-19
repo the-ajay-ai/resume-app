@@ -64,9 +64,9 @@ def txt(a, b):
 def txt2(a, b):
   col1, col2 = st.columns([1,4])
   with col1:
-    st.markdown(f'`{[a]}`')
+    st.markdown(f'`{a}`')
   with col2:
-    st.markdown(f'{(b)}')
+    st.markdown(b)
 
 def txt3(a, b):
   col1, col2 = st.columns([1,2])
@@ -149,7 +149,7 @@ txt3('Platforms & Misc.', '`Streamlit`, `Gradio`, `Anaconda`, `Jupyter Notebook`
 st.markdown('''
 ## Social Media
 ''')
-txt2('LinkedIn', 'https://www.linkedin.com/in/the-ajay-ai/')
-txt2('GitHub', 'https://github.com/the-ajay-ai/')
-txt2('Twitter', 'https://twitter.com/ajay_dduc')
-txt2('ResearchGate', 'https://www.researchgate.net/profile/Ajay-Saini-7')
+txt2('LinkedIn', '[](https://www.linkedin.com/in/the-ajay-ai/)')
+txt2('GitHub', '[](https://github.com/the-ajay-ai/)')
+txt2('Twitter', '[](https://twitter.com/ajay_dduc)')
+txt2('ResearchGate', '[](https://www.researchgate.net/profile/Ajay-Saini-7)')
