@@ -16,9 +16,8 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Experienced Educator, Researcher and Administrator with almost twenty years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
-- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `10` conferences as well as publishing 149 research articles.
-- Strong track record in scholarly research with H-index of `32` and total citation of 3200+.
+- Energetic, passionate Data Science Enthusiast.
+- Aiming to use my knowledge of Python Programming, OOPs Concepts, hands-on experience on ML, NN, CNN, Computer Vision.
 ''')
 
 #####################
@@ -109,24 +108,24 @@ st.markdown('''
 st.markdown('''
 ## Work Experience
 ''')
-txt('**Associate Data Scientist**, [Celebal Technologies](https://celebaltech.com)',
-'FAb/2022-Present(Full-Time)')
+txt('**Associate Data Scientist(Full-Time)**, [Celebal Technologies](https://celebaltech.com)',
+'FAB/2022-Present')
 # st.markdown('''
-  
+
 # ''')
 
-txt('**AI Intern**, [Dataviv Technologies](https://dataviv.in)',
-'OCT/2021-JAN/2022(Full-Time)')
+txt('**AI Intern(Full-Time)**, [Dataviv Technologies](https://dataviv.in)',
+'OCT/2021-JAN/2022')
 st.markdown('''
 - `Project:` AI BASED SMART ATTENDANCE SYSTEM FOR HOSPITAL
 - `Role & Responsibility:` Focused on developing machine learning models for face-recognition and making attendance into the DB with name, time, temperate, And worked on Big-Data Clustering problem using PySaprk, from setup Yarn Cluster and PySpark manually and along with that deals with Geodata to make cluster using DBSCAN Algorithm.Instance Segmentation on custom dataset.
 
 ''')
 
-txt('**Data Science Intern**, [Solytics Partners Private Limited](https://solytics-partners.com)',
-'JUN/2021-OCT/2021(Full-Time)')
+txt('**Data Science Intern(Full-Time)**, [Solytics Partners Private Limited](https://solytics-partners.com)',
+'JUN/2021-OCT/2021')
 st.markdown('''
-- `Project:` Nimbus
+- `Project:` NIMBUS
 - `Role & Responsibility:` Focused on developing machine learning models, models testing.  I was worked on Model Testing and Model Interpretation module of this project.
 - `Big Data ML Model:` Worked on Logistic regression, LinerSVC &  Random forest classifier model in PySpark Framework. H2OXGBoostClassifier, H2ODeepLearningClassifier ML Model in H2O.ai Framework.
 - `Model Testing:` Use classification model matrices like Confusion Matrix, Precision, Recall, f1-score, Specificity, Sensitivity, Feature Importance.
@@ -140,12 +139,12 @@ st.markdown('''
 ''')
 txt3('Programming', '`Python`, `Linux`')
 txt3('Libraries/FrameWork', '`Sklearn`,`Detecton2`,`TensorFlow`,`NLTK`,`Gensim`, `OpenCV`,`Numpy`, `Pandas`, `PySpark`, `Matplotlib`,`Seaborn`')
-txt3('Machine Learning', '`Regression Algorithm`, `KNN`, `SVM`, `Decision Tree`, `Random Forests`,etc. ')
+txt3('Machine Learning', '`Regression Algorithm`, `KNN`, `SVM`, `DT`, `Random Forests`,etc. ')
 txt3('Deep Learning', '`ANN`, `CNN`, `RNN`,`LSTM`')
 txt3('Computer Vison', '`OpenCV`,`Detecton2`,')
 txt3('NLP', '`Bag-TO-word`, `TF-IDF`, `Word2Vec`, `Word Embedding`')
 # txt3('Web development', '`Flask`, `Django`,`HTML`, `CSS`')
-txt3('Platforms & Misc.', '`streamlit`, `gradio`, `Anaconda`, `Jupyter Notebook`, `Colab`, `Spyder IDE`, `PyCharm IDE`, `LabelIMG`, `LabelMe`')
+txt3('Platforms & Misc.', '`Streamlit`, `Gradio`, `Anaconda`, `Jupyter Notebook`, `Colab`, `Spyder IDE`, `PyCharm IDE`, `LabelIMG`, `LabelMe`')
 
 #####################
 st.markdown('''
