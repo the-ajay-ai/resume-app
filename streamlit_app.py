@@ -41,9 +41,9 @@ st.markdown("""
       <li class="nav-item">
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#bioinformatics-tools">Bioinformatics Tools</a>
-      </li>
+      #<li class="nav-item">
+      #  <a class="nav-link" href="#Gallery">Gallery</a>
+      #</li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
       </li>
@@ -149,4 +149,4 @@ txt3('Platforms & Misc.', '`Streamlit`, `Gradio`, `Anaconda`, `Jupyter Notebook`
 st.markdown('''
 ## Social Media
 ''')
-txt3('', '[LinkedIn](https://www.linkedin.com/in/the-ajay-ai/) [GitHub](https://github.com/the-ajay-ai/) [Twitter](https://twitter.com/ajay_dduc) [ResearchGate](https://www.researchgate.net/profile/Ajay-Saini-7)')
+txt3('', '`[LinkedIn](https://www.linkedin.com/in/the-ajay-ai/)`    `[GitHub](https://github.com/the-ajay-ai/)`     `[Twitter](https://twitter.com/ajay_dduc)`  `[ResearchGate](https://www.researchgate.net/profile/Ajay-Saini-7)`')
