@@ -138,7 +138,7 @@ st.markdown('''
 ''')
 txt3('Programming', '`Python`, `Linux`')
 txt3('Libraries/FrameWork', '`Sklearn`,`Detecton2`,`TensorFlow`,`NLTK`,`Gensim`, `OpenCV`,`Numpy`, `Pandas`, `PySpark`, `Matplotlib`,`Seaborn`')
-txt3('Machine Learning', '`Regression Algorithm`, `KNN`, `SVM`, `DT`, `Random Forests`,etc. ')
+txt3('Machine Learning', '`Regression Algorithm`, `KNN`, `SVM`, `Decision Tree`, `Random Forests`, `etc.` ')
 txt3('Deep Learning', '`ANN`, `CNN`, `RNN`,`LSTM`')
 txt3('Computer Vison', '`OpenCV`,`Detecton2`,')
 txt3('NLP', '`Bag-TO-word`, `TF-IDF`, `Word2Vec`, `Word Embedding`')
@@ -149,7 +149,7 @@ txt3('Platforms & Misc.', '`Streamlit`, `Gradio`, `Anaconda`, `Jupyter Notebook`
 st.markdown('''
 ## Social Media
 ''')
-txt2('LinkedIn', '[](https://www.linkedin.com/in/the-ajay-ai/)')
-txt2('GitHub', '[](https://github.com/the-ajay-ai/)')
-txt2('Twitter', '[](https://twitter.com/ajay_dduc)')
-txt2('ResearchGate', '[](https://www.researchgate.net/profile/Ajay-Saini-7)')
+txt3('', '[LinkedIn](https://www.linkedin.com/in/the-ajay-ai/)')
+txt3('', '[GitHub](https://github.com/the-ajay-ai/)')
+txt3('', '[Twitter](https://twitter.com/ajay_dduc)')
+txt3('', '[ResearchGate](https://www.researchgate.net/profile/Ajay-Saini-7)')
