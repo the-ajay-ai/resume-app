@@ -149,7 +149,4 @@ txt3('Platforms & Misc.', '`Streamlit`, `Gradio`, `Anaconda`, `Jupyter Notebook`
 st.markdown('''
 ## Social Media
 ''')
-txt3('', '[LinkedIn](https://www.linkedin.com/in/the-ajay-ai/)')
-txt3('', '[GitHub](https://github.com/the-ajay-ai/)')
-txt3('', '[Twitter](https://twitter.com/ajay_dduc)')
-txt3('', '[ResearchGate](https://www.researchgate.net/profile/Ajay-Saini-7)')
+txt3('', '[LinkedIn](https://www.linkedin.com/in/the-ajay-ai/), [GitHub](https://github.com/the-ajay-ai/) ,[Twitter](https://twitter.com/ajay_dduc), [ResearchGate](https://www.researchgate.net/profile/Ajay-Saini-7)')
