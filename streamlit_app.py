@@ -64,9 +64,9 @@ def txt(a, b):
 def txt2(a, b):
   col1, col2 = st.columns([1,4])
   with col1:
-    st.markdown(f'`{a}`')
+    st.markdown(f'`{[a]}`')
   with col2:
-    st.markdown(b)
+    st.markdown(f'{(b)}')
 
 def txt3(a, b):
   col1, col2 = st.columns([1,2])
