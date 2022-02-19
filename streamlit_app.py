@@ -111,7 +111,7 @@ txt('**Associate Data Scientist(Full-Time)**, [Celebal Technologies](https://cel
 # ''')
 
 txt('**AI Intern(Full-Time)**, [Dataviv Technologies](https://dataviv.in)',
-'OCT/2021-JAN/2022')
+'OCT-JAN/2022')
 st.markdown('''
 - `Project:` AI BASED SMART ATTENDANCE SYSTEM FOR HOSPITAL
 - `Role & Responsibility:` Focused on developing machine learning models for face-recognition and making attendance into the DB with name, time, temperate, And worked on Big-Data Clustering problem using PySaprk, from setup Yarn Cluster and PySpark manually and along with that deals with Geodata to make cluster using DBSCAN Algorithm.Instance Segmentation on custom dataset.
@@ -119,7 +119,7 @@ st.markdown('''
 ''')
 
 txt('**Data Science Intern(Full-Time)**, [Solytics Partners Private Limited](https://solytics-partners.com)',
-'JUN/2021-OCT/2021')
+'JUN-OCT/2021')
 st.markdown('''
 - `Project:` NIMBUS
 - `Role & Responsibility:` Focused on developing machine learning models, models testing.  I was worked on Model Testing and Model Interpretation module of this project.
