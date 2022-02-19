@@ -12,7 +12,7 @@ st.write('''
 ''')
 
 image = Image.open('dp.png')
-st.image(image, width=150)
+[st.image(image, width=150)](http://dducollegedu.ac.in)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
@@ -149,4 +149,4 @@ txt3('Platforms & Misc.', '`Streamlit`, `Gradio`, `Anaconda`, `Jupyter Notebook`
 st.markdown('''
 ## Social Media
 ''')
-txt3('', '[LinkedIn](https://www.linkedin.com/in/the-ajay-ai/), [GitHub](https://github.com/the-ajay-ai/) ,[Twitter](https://twitter.com/ajay_dduc), [ResearchGate](https://www.researchgate.net/profile/Ajay-Saini-7)')
+txt3('', '[LinkedIn](https://www.linkedin.com/in/the-ajay-ai/) [GitHub](https://github.com/the-ajay-ai/) [Twitter](https://twitter.com/ajay_dduc) [ResearchGate](https://www.researchgate.net/profile/Ajay-Saini-7)')
