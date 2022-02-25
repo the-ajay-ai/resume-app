@@ -80,25 +80,6 @@ def txt4(a, b, c):
 
 #####################
 st.markdown('''
-## Education
-''')
-
-txt('**Master of Science** (Computer Science), [*Central University of Rajasthan*, Rajasthan](https://curaj.ac.in)',
-'2019-2021')
-st.markdown('''
-- GPA: `8.0(≈)`
-- Graduated with First Class Honors.
-''')
-
-txt('**Bachelors of Science** (Computer Science), [*University of Delhi*, New Delhi](http://dducollegedu.ac.in)',
-'2016-2019')
-st.markdown('''
-- GPA: `7.0(≈)`
-- Graduated with First Class Honors.
-''')
-
-#####################
-st.markdown('''
 ## Work Experience
 ''')
 txt('**Data Science-Analyst(Full-Time)**, [Absolutdata](https://www.absolutdata.com)',
@@ -125,6 +106,25 @@ st.markdown('''
 - `Project:` Sanctions and Adverse Media Screening(SAMS)
 - `Sentiment Classifier:`In this project we will be building a sentiment classifier using the bert pretrained model,Machine Learning Algorithm.
 - `Spam Classifier:` In this project we will be building a Spam classifier using Machine Learning Algorithm. 
+''')
+
+#####################
+st.markdown('''
+## Education
+''')
+
+txt('**Master of Science** (Computer Science), [*Central University of Rajasthan*, Rajasthan](https://curaj.ac.in)',
+'2019-2021')
+st.markdown('''
+- GPA: `8.0(≈)`
+- Graduated with First Class Honors.
+''')
+
+txt('**Bachelors of Science** (Computer Science), [*University of Delhi*, New Delhi](http://dducollegedu.ac.in)',
+'2016-2019')
+st.markdown('''
+- GPA: `7.0(≈)`
+- Graduated with First Class Honors.
 ''')
 
 st.markdown('''
