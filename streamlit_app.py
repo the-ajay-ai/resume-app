@@ -101,7 +101,7 @@ st.markdown('''
 st.markdown('''
 ## Work Experience
 ''')
-txt('**Associate Data Scientist(Full-Time)**, [Celebal Technologies](https://celebaltech.com)',
+txt('**Analyst(Full-Time)**, [Absolutdata](https://www.absolutdata.com)',
 'FAB/2022-Present')
 # st.markdown('''
 
