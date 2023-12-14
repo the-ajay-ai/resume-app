@@ -147,11 +147,6 @@ st.markdown('''
 ''')
 
 st.markdown('''
-## Certification
-''')
-st.image(images, width=100)
-
-st.markdown('''
 ## Skills
 ''')
 txt3('Programming', '`Python`, `Linux`')
@@ -168,3 +163,8 @@ st.markdown('''
 ## Social Media
 ''')
 txt3('', '[LinkedIn](https://www.linkedin.com/in/the-ajay-ai/) || [GitHub](https://github.com/the-ajay-ai/) || [Twitter](https://twitter.com/ajay_dduc) || [ResearchGate](https://www.researchgate.net/profile/Ajay-Saini-7)')
+
+st.markdown('''
+## Certification
+''')
+st.image(images, width=111)
