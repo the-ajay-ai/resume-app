@@ -47,11 +47,10 @@ st.write('''
 # st.image(images, use_column_width=True, caption=["some generic text"] * len(images))
 image = Image.open('dp.png')
 st.image(image, width=150)
-st.image([image,image,image], width=15)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- ❖ Energetic, passionate Data Science Enthusiast.I Aim to use my knowledge of Python Programming, OOP Concepts, and hands-on experience in ML, NN, CNN, and Computer Vision.
+- ❖ Energetic, passionate Data Science Enthusiast. I Aim to use my knowledge of Python Programming, OOP Concepts, and hands-on experience in ML, NN, CNN, and Computer Vision.
 - ❖ Over 3+ years of experience comprising activities in all phases of the Data Science Project Life Cycle (like analysis, EDA, Feature Engineering, model creation, model testing, and model deployment).   
 - ❖ Microsoft Certified:   
     - Azure Data Scientist Associate 
