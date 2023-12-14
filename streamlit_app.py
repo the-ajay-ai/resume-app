@@ -47,9 +47,7 @@ st.write('''
 # st.image(images, use_column_width=True, caption=["some generic text"] * len(images))
 image = Image.open('dp.png')
 st.image(image, width=150)
-st.image([image,image,image])
-st.image([image,image,image], width=50)
-st.image([image,image,image], use_column_width=True)
+st.image([image,image,image], width=15)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
