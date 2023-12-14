@@ -8,7 +8,7 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Ajay Saini, `A.I.Enthusiast`
-##### *Resume* 
+##### *CV* 
 ''')
 
 image = Image.open('dp.png')
@@ -16,7 +16,19 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Energetic, passionate Data Science Enthusiast.Aiming to use my knowledge of Python Programming, OOPs Concepts, hands-on experience on ML, NN, CNN, Computer Vision.
+- Energetic, passionate Data Science Enthusiast.I Aiming to use my knowledge of Python Programming, OOP's Concepts, and hands-on experience in ML, NN, CNN, and Computer Vision.
+- ❖ Over 2.10+ years of experience comprising activities performed in all phases of the Data Science Project Life Cycle (like analysis, EDA, Feature Engineering, model creation, model testing, and model deployment).   
+- ❖ Microsoft Certified:   
+    • Azure Data Scientist Associate   
+    • Azure AI Fundamentals   
+    • Azure Data Fundamentals   
+- ❖ Ability to work in a team environment and individual environment.   
+- ❖ Hands-on Azure Data-bricks, Azure ML Studio, Azure DataFactory   
+- ❖ Hands-on Docker, Git &GitHub, DevOps, Terraform   
+- ❖ Hands-on Exp. in Infra as code (IaC) Terraform, ARM templates, Cloud Formation.  
+- ❖ Hands-on Azure DevOps CI/CD Process, GIT Repository, check-in, merge, build, and deploy.   
+- ❖ Python (NLTK, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, LLM, TensorFlow, HuggingFace, etc.)   
+- ❖ Knowledge of Cloud ML Services (AzureML, AWS + Sage-maker ) 
 ''')
 
 #####################
