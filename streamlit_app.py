@@ -149,7 +149,7 @@ st.markdown('''
 st.markdown('''
 ## Certification
 ''')
-st.image(images, width=50)
+st.image(images, width=100)
 
 st.markdown('''
 ## Skills
