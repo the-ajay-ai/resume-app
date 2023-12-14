@@ -50,7 +50,6 @@ ai_fundamentals = Image.open('azure-ai-fundamentals.png')
 data_fundamentals = Image.open('azure-data-fundamentals.png')
 images = [scientist_associate,ai_fundamentals,data_fundamentals]
 st.image(image, width=150)
-st.image(images, width=50)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
@@ -146,6 +145,11 @@ st.markdown('''
 - GPA: `7.0(≈)`
 - Graduated with First Class Honors.
 ''')
+
+st.markdown('''
+## Certification
+''')
+st.image(images, width=50)
 
 st.markdown('''
 ## Skills
