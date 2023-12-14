@@ -13,9 +13,7 @@ st.write('''
 
 image = Image.open('dp.png')
 st.image(image, width=150)
-st.image(image, width=50)
-st.image(image, width=50)
-st.image(image, width=50)
+txt4(st.image(image, width=50),st.image(image, width=50),st.image(image, width=50))
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
@@ -98,13 +96,13 @@ def txt4(a, b, c):
 st.markdown('''
 ## Work Experience
 ''')
-txt('**Data Science-Analyst(Full-Time)**, [Absolutdata](https://www.absolutdata.com)',
+txt('**Data Scientist(Full-Time)**, [Absolutdata](https://www.absolutdata.com)',
 'FAB/2022-Present')
 # st.markdown('''
 
 # ''')
 
-txt('**AI Intern(Full-Time)**, [Dataviv Technologies](https://dataviv.in)',
+txt('**AI Developer(Full-Time)**, [Dataviv Technologies](https://dataviv.in)',
 'OCT-JAN/2022')
 st.markdown('''
 - `Project:` AI BASED SMART ATTENDANCE SYSTEM FOR HOSPITAL
@@ -112,7 +110,7 @@ st.markdown('''
 
 ''')
 
-txt('**Data Science Intern(Full-Time)**, [Solytics Partners Private Limited](https://solytics-partners.com)',
+txt('**Associate Data Scientist(Full-Time)**, [Solytics Partners Private Limited](https://solytics-partners.com)',
 'JUN-OCT/2021')
 st.markdown('''
 - `Project:` NIMBUS
