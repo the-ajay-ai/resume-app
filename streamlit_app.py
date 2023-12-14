@@ -19,10 +19,10 @@ st.info('''
 - ❖ Energetic, passionate Data Science Enthusiast.I Aim to use my knowledge of Python Programming, OOP Concepts, and hands-on experience in ML, NN, CNN, and Computer Vision.
 - ❖ Over 3+ years of experience comprising activities in all phases of the Data Science Project Life Cycle (like analysis, EDA, Feature Engineering, model creation, model testing, and model deployment).   
 - ❖ Microsoft Certified:   
-    - Azure Data Scientist Associate 
-    - Azure AI Engineer Associate
-    - Azure AI Fundamentals   
-    - Azure Data Fundamentals   
+    -Azure Data Scientist Associate 
+    -Azure AI Engineer Associate
+    -Azure AI Fundamentals   
+    -Azure Data Fundamentals   
 - ❖ Ability to work in a team environment and individual environment.   
 - ❖ Hands-on Azure Data-bricks, Azure ML Studio, Azure DataFactory   
 - ❖ Hands-on Docker, Git &GitHub, DevOps, Terraform   
