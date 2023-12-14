@@ -43,15 +43,14 @@ st.write('''
 # Ajay Saini, `A.I.Enthusiast`
 ##### *CV* 
 # ''')
-# images = ['P2100483.JPG', 'P2100486.JPG', 'P2100488.JPG']
-# st.image(images, use_column_width=True, caption=["some generic text"] * len(images))
+# st.image(images, use_column_width=True, caption=caption=["azure-data-scientist-associate","azure-ai-fundamentals","azure-data-fundamentals"])
 image = Image.open('dp.png')
 scientist_associate = Image.open('azure-data-scientist-associate.png')
 ai_fundamentals = Image.open('azure-ai-fundamentals.png')
 data_fundamentals = Image.open('azure-data-fundamentals.png')
 images = [scientist_associate,ai_fundamentals,data_fundamentals]
 st.image(image, width=150)
-st.image(images, width=150, caption=["azure-data-scientist-associate","azure-ai-fundamentals","azure-data-fundamentals"])
+st.image(images, width=50)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
