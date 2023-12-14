@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-
+st.markdown("![Foo](http://www.google.com.au/images/nav_logo7.png)(http://google.com.au/)")
 #####################
 # Custom function for printing text
 def txt(a, b):
